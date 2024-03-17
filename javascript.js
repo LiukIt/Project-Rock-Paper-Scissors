@@ -57,7 +57,7 @@ function playGame() {
     let playerScore = 0;
     let computerScore = 0;
 
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i <= 4; i++) {
         const playerSelection = prompt("Inserisci 'scissors', 'paper' o 'rock':").toLowerCase();
         const computerSelection = getComputerChoice();
 
