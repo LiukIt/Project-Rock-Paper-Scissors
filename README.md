@@ -1,2 +1,2 @@
-# Project-Rock-Paper-Scissors
-Project for Odin Project curriculum: Rock Paper Scissors
+# project:Rock-Paper-Scissors
+project for Odin Project curriculum: Rock Paper Scissors
